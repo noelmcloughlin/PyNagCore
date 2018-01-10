@@ -1,0 +1,7 @@
+include LICENSE
+include MANIFEST.in
+include README.md
+include setup.py
+include pynagcore/__init__.py
+include pynagcore/_version.py
+include pynagcore/cmd.py
